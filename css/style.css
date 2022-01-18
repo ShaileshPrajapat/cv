@@ -16,3 +16,6 @@ h1{
 h3{
   color:red;
 }
+img:hover{
+  background-color: yellow;
+}
